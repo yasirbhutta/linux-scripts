@@ -1,3 +1,9 @@
+# https://www.lifewire.com/convert-linux-command-unix-command-4097060
+
+#
+# resize batch of files
+#
+
 for file in *
 do
 
