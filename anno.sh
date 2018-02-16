@@ -1,3 +1,6 @@
+#
+# http://www.imagemagick.org/Usage/annotating/
+#
 for file in *
 do
 convert $file -fill black  -undercolor Khaki  -gravity South \
